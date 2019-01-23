@@ -9,9 +9,9 @@ What it does –
 
 Requirements – 
 
-Macro-enabled workbook (.xlsm)
-Worksheet named “List” – of course you can modify it if you would like
-Attachmate - EXTRA! (and you need to be signed in so that VBA could interact with it)
+* Macro-enabled workbook (.xlsm)
+* Worksheet named “List” – of course you can modify it if you would like
+* Attachmate - EXTRA! (and you need to be signed in so that VBA could interact with it)
 
 Note – 
 
