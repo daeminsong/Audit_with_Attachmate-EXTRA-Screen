@@ -3,12 +3,15 @@ Obviously this macro is for a very specific purpose.
 
 What it does – 
 
-1.	Creates worksheets based on a list of strings in the worksheet “List”
-![](worksheets_added.gif)
-2.	Creates an index sheet so that auditors could easily navigate through the workbook
-![](index_creation.gif)
-3.	Loops through the strings – takes a screenshot(s) from Attachmate - EXTRA!, and saves it (or them) under the corresponding spreadsheet by order. 
-![](Screenshot_demo.gif)
+1.	Creates worksheets based on a list of strings in the worksheet “List”\
+![](worksheets_added.gif)\
+
+2.	Creates an index sheet so that auditors could easily navigate through the workbook\
+
+![](index_creation.gif)\
+
+3.	Loops through the strings – takes a screenshot(s) from Attachmate - EXTRA!, and saves it (or them) under the corresponding spreadsheet by order.\
+![](Screenshot_demo.gif)\
 
 Requirements – 
 
